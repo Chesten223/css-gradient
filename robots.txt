@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://css-gradient.pages.dev/sitemap.xml
